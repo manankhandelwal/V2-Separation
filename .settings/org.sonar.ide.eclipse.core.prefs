@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://localhost\:9000/\r\nsonar.jdbc.password\=root\r\nsonar.jdbc.username\=root\r\nsonar.jdbc.url\=jdbc\:mysql\://localhost\:3309/sonar?useUnicode\=true&characterEncoding\=utf8\r\nsonar.skipPackageDesign\=true\r\nsonar.jdbc.driver\=com.mysql.jdbc.Driver
+projectKey=org.citruspay\:V2-Separation
+serverUrl=http\://127.0.0.1\:9000
+version=2
