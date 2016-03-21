@@ -29,7 +29,7 @@
                 <transformer>
                   <manifestEntries>
                     <Main-Class>io.vertx.core.Starter</Main-Class>
-                    <Main-Verticle>com.citruspay.v2.verticle.SslV2Verticle</Main-Verticle>
+                    <Main-Verticle>com.citruspay.v2.verticle.Sslv2Verticle</Main-Verticle>
                   </manifestEntries>
                 </transformer>
               </transformers>

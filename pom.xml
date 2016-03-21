@@ -149,7 +149,7 @@
 									implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
 							 		<manifestEntries>
 										<Main-Class>io.vertx.core.Starter</Main-Class>
-										<Main-Verticle>com.citruspay.v2.verticle.SslV2Verticle
+										<Main-Verticle>com.citruspay.v2.verticle.Sslv2Verticle
 										</Main-Verticle>
 									</manifestEntries>
 								</transformer>
@@ -221,4 +221,5 @@
 		</profile>
 	</profiles>
 
+	<packaging>war</packaging>
 </project>
